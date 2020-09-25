@@ -1,0 +1,12 @@
+{
+  "name": "node-simple-load",
+  "version": "0.0.1",
+  "description": "",
+  "bin": "src/js/index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autocannon": "^6.4.0",
+    "minimist": "^1.2.5"
+  }
+}
