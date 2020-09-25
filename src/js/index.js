@@ -39,7 +39,6 @@ function start() {
         autocannon.track(testRun);
 
         testRun.then(() => {
-            console.log("next")
             index++;
             start();
         });
