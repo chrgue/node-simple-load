@@ -6,7 +6,7 @@ const argv = require('minimist')(process.argv.slice(2));
 let testRun = null;
 let index = 0;
 
-const connections = [1, 5, 10, 30, 50, 80, 100];
+const connections = [1, 2, 3, 4, 5, 6, 7, 8 , 9, 10, 15, 20];
 let duration = 30;
 let url = "http://localhost:3000"
 
